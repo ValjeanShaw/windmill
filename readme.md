@@ -1,5 +1,5 @@
 # 1. python基础
-#python
+[TOC]
 
 > base.py
 ## 注释
@@ -26,7 +26,7 @@ Number三种类型：
 ## 空值
 None   相当于其他静态语言中的null
 
-
+------
 
 > dataConstruct.py
 ## 字符串
