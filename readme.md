@@ -1,5 +1,4 @@
 # python基础
-[TOC]
 
 # 入门基础和数据类型
 > Base.py
