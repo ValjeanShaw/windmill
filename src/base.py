@@ -27,3 +27,4 @@ print(num1 + num2)
 # 空值
 num5 = None
 print(num5)
+
