@@ -1,6 +1,7 @@
-# 1. python基础
+# python基础
 [TOC]
 
+# 入门基础和数据类型
 > base.py
 ## 注释
 两种注释方式：
@@ -16,7 +17,7 @@ print(“hello”+”world”)
 print(“hello”,”world”)
 
 
-## 数据类型
+## 基本数据类型
 Number三种类型：
 1. 整形              num1=1
 2. 浮点型         num2=1.2
@@ -27,7 +28,7 @@ Number三种类型：
 None   相当于其他静态语言中的null
 
 ------
-
+# 常用类型
 > dataConstruct.py
 ## 字符串
 ### 操作字符串
