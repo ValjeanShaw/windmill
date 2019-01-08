@@ -42,13 +42,18 @@ None   相当于其他静态语言中的null
 ## 列表
 []
 list=[‘’,’’,’’]
-### 操作字符串
+### 操作列表
 1. 索引    list[0]
 2. 切片    
 * list[0:1]   
 * list[1:]
 * list[-1]  负数表示倒数第几位
-
+### 列表的一些常用函数
+* append()
+* sort()
+* insert()
+* remove(具体值)
+* del (list[1])
 
 ## 与或非的操作
 与 and  或  or   非  not
