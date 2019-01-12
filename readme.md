@@ -87,7 +87,14 @@ dict={'key':'value','key':'value'}
 * dict.clear()
 * dict.get(key,defaultValue) 
 
+## set
 
+定义方式 set([])
+set1=set([1,2,3])
+
+### 操作列表
+不能取值，访问set值就是判断set中是否存在该值
+[key] in [set]
 
 ## 与或非的操作
 与 and  或  or   非  not
