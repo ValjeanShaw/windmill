@@ -40,7 +40,8 @@ None   相当于其他静态语言中的null
 ```'Hello, {0}, 成绩提升了 {1:.1f}%'.format('小明', 17.125)```
 
 ## 列表
-[]
+
+定义方式 [] 
 list=[‘’,’’,’’]
 ### 操作列表
 1. 索引    list[0]
@@ -54,6 +55,39 @@ list=[‘’,’’,’’]
 * insert()
 * remove(具体值)
 * del (list[1])
+
+## 元组
+
+定义方式（）
+tuple=('','')
+
+### 操作列表
+1. 索引  tuple[0]
+2. 切分  tuple[0:2]
+* tuple[0:1]   
+* tuple[1:]
+* tuple[-1]  负数表示倒数第几位
+
+### 元组的一些常用函数
+* tuple("list")
+
+## 字典
+
+定义方式 {}
+dict={'key':'value','key':'value'}
+
+### 操作列表
+1. 取值  dict[key] 
+2. 追加  dict['newKey']='newValue'
+
+
+### 字典的一些常用函数
+* del dict['key']
+* del dict
+* dict.clear()
+* dict.get(key,defaultValue) 
+
+
 
 ## 与或非的操作
 与 and  或  or   非  not
